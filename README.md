@@ -1,1 +1,1 @@
-# jod
+print("hello world")
